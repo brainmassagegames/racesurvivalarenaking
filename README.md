@@ -5,3 +5,4 @@ This is support page for iOS / Android versions.
 
 If you have any issues with this game, please leave them in [Issues Section](https://github.com/brainmassagegames/racesurvivalarenaking/issues).
 
+[Brain Massage Games](https://brainmassagegames.com/) 2025
