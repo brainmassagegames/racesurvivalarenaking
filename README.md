@@ -1,2 +1,3 @@
-# racesurvivalarenaking
-Support Page for Race Survival Arena King
+# Race Survival Arena King
+This is support page for iOS / Android versions.
+If you have any issues, please leave them in [Issues Section](https://github.com/brainmassagegames/racesurvivalarenaking/issues).
